@@ -3,5 +3,14 @@
    "description": "Pepe Sticker Theme",
    "image": "https://raw.githubusercontent.com/X1ag/stickerstore-manifest/refs/heads/main/stickerPackItemImage.webp",
    "content_url": "",
-   "attributes": []
+   "attributes": [
+      {
+         "trait_type": "Mask",
+         "value": "Blue"
+      },
+      {
+         "trait_type": "type",
+         "value": "Ninja"
+      }
+   ]
 }
